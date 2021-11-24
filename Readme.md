@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nisha Tirkey</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  , I'm Nisha Tirkey</h1>
 <h3 align="center">A passionate learner and a keen observer!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha855&label=Profile%20views&color=0e75b6&style=flat" alt="nisha855" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha855&label=Profile%20views&color=0e75b6&style=flat" alt="nisha855" /><img  align='right'  width="359" height="330" alt="88266719-92b33e00-ccc7-11ea-9b40-d77fa96dcd4f" src="https://user-images.githubusercontent.com/72224843/143307314-8946e241-e67a-469b-842b-901731d54fc3.png"> </p>
 
 - 🌱 I’m currently learning **and exploring stuffs.**
 
