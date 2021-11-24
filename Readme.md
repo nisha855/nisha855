@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **and exploring stuffs.**
 
-- 📫 How to reach me **nisha00396@gmail.com**
+- 📫 How to reach me **2019ugcs018@nitjsr.ac.in**
 
 - ⚡ Fun fact **Shouldn't be known XD**
 
